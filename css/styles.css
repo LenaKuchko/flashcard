@@ -8,3 +8,10 @@
 .hidden {
   display: none;
 }
+.showing {
+  display: block;
+}
+img {
+  /*display: inline; */
+  height: 200px;
+}
